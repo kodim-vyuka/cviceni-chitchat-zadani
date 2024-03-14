@@ -1,2 +1,3 @@
-# cviceni-chitchat-zadani
+# Cvičení ChitChat - zadání
+
 Zadání pro cvičení ChitChat
